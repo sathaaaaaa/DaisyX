@@ -163,13 +163,12 @@ STRINGS:
     cant_promote_yourself: "Anda tidak dapat mempromosikan diri anda sendiri."
     emoji_not_allowed: "Mohon maaf, tetapi gelar admin tidak dapat memiliki sebuah emoji 😞"
   pm_menu:
-    start_hi_group: 'Hai yang disana! Nama saya Daisy'
-    start_hi: "Hai yang disana! Nama saya <b>Daisy.</b>\nSaya bisa membantu mengatur grup dengan fitur-fitur yang berguna, jangan ragu untuk menambahkan saya ke grup anda!"
-    btn_source: "📜 Kode sumber"
+    start_hi_group: 'Hai yang disana! Nama saya Count Dracula'
+    start_hi: "Hai yang disana! Nama saya <b>Count Dracula.</b>\nSaya bisa membantu mengatur grup dengan fitur-fitur yang berguna, jangan ragu untuk menambahkan saya ke grup anda!"
     btn_help: "❔ Bantuan"
     btn_lang: "Bahasa id"
-    btn_channel: "🙋‍♀️ Berita Daisy"
-    btn_group: "👥 Daisy Support"
+    btn_channel: "🙋‍♀️ Berita Count Dracula"
+    btn_group: "👥 Count Dracula Support"
     btn_group_help: "Tekan saya untuk mendapatkan bantuan!"
     back: Kembali
     #/help
