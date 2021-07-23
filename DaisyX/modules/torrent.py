@@ -70,7 +70,7 @@ async def _(event):
     await tbot.edit_message(
         chatid,
         msgid,
-        "Daisy found some torrents for you. Take a look 👇",
+        "Lol I found some torrents for you. Take a look 👇",
         buttons=[
             [
                 Button.inline(
@@ -190,7 +190,7 @@ async def paginate_prevtorrent(event):
     try:
         results = requests.get(url).json()
     except Exception as e:
-        await event.reply("Sorry, Daisy Cant found any torrents for that word")
+        await event.reply("Sorry, I couldn't find any torrents for that word")
         print(e)
         return
     vector = len(results)
@@ -332,7 +332,7 @@ async def torrentstop(event):
     await tbot.edit_message(
         chatid,
         msgid,
-        "Thanks for using.\n❤️ from [Daisy X](t.me/DaisyXBot) !",
+        "Thanks for using.\n❤️ from [Count Dracula](t.me/CountDracula_bot) !",
         link_preview=False,
     )
 
