@@ -76,8 +76,7 @@ async def get_start_func(message, strings, edit=False):
     buttons.add(InlineKeyboardButton(strings["btn_help"], callback_data="get_help"))
     buttons.add(
         InlineKeyboardButton(strings["btn_lang"], callback_data="lang_btn"),
-        ),
-    )
+        )
     buttons.add(
         InlineKeyboardButton(strings["btn_channel"], url="https://t.me/countdraculasupport"),
         InlineKeyboardButton(
