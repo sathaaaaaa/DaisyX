@@ -15,14 +15,14 @@ __help__ = """
 *) If userbot joined enjoy music, If not add @VampireLadyCountDraculahelper to your group and retry
 
 
-**Commands**
-**=>> Song Playing 🎧**
+<b> **Commands** </b>
+<b> **=>> Song Playing 🎧** </b>
 - /play: Play the requestd song
 - /play [yt url] : Play the given yt url
 - /play [reply yo audio]: Play replied audio
 - /splay: Play song via jio saavn
 - /ytplay: Directly play song via Youtube Music
-**=>> Playback ⏯**
+<b> **=>> Playback ⏯** </b>
 - /player: Open Settings menu of player
 - /skip: Skips the current track
 - /pause: Pause track
@@ -31,7 +31,7 @@ __help__ = """
 - /current: Shows the current Playing track
 - /playlist: Shows playlist
 *Player cmd and all other cmds except /play, /current  and /playlist  are only for admins of the group.
-**=>> Channel Music Play 🛠**
+<b> **=>> Channel Music Play 🛠** </b>
 ⚪️ For linked group admins only:
 - /cplay [song name] - play song you requested
 - /csplay [song name] - play song you requested via jio saavn
@@ -50,11 +50,11 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 3) Add bot as Channel admin with full perms
 4) Add @VampireLadyCountDraculahelper to the channel as an admin.
 5) Simply send commands in your group.
-**=>> More tools 🧑‍🔧**
+<b> **=>> More tools 🧑‍🔧** </b>
 - /musicplayer [on/off]: Enable/Disable Music player
 - /admincache: Updates admin info of your group. Try if bot isn't recognize admin
 - /userbotjoin: Invite @VampireLadyCountDraculahelper Userbot to your chat
-**=>> Commands for Sudo Users ⚔️**
+<b> **=>> Commands for Sudo Users ⚔️** </b>
  - /userbotleaveall - remove assistant from all chats
  - /gcast <reply to message> - globally brodcast replied message to all chats
  - /pmpermit [on/off] - enable/disable pmpermit message
